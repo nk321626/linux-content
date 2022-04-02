@@ -1,0 +1,5 @@
+sudo code for leap year
+int year=2022
+if [year/4==0 && year/100=!0] then print yes this is leap year
+if year/400==0 print yes this is leap year 
+else print this is not leap year
